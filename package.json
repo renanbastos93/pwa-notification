@@ -1,0 +1,27 @@
+{
+  "name": "pwa-notification",
+  "version": "0.0.1",
+  "description": "Progressive Web App with push notification.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanbastos93/pwa-notification.git"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "push",
+    "notification"
+  ],
+  "author": "Renan Bastos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renanbastos93/pwa-notification/issues"
+  },
+  "homepage": "https://github.com/renanbastos93/pwa-notification#readme"
+}
